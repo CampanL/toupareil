@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"F:/Travaux/Prototypes/toupareil/LAPORTE/Content/StarterContent/Audio/Collapse01.uasset",
+				"F:/Travaux/Prototypes/toupareil/LAPORTE/Content/ProtoDoor/Map/LevelTestSeb.umap",
+				"F:/Travaux/Prototypes/toupareil/LAPORTE/Content/Blueprints/BP_Door.uasset",
 				"D:/BrackeyGameJam/toupareil/LAPORTE/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset",
 				"D:/BrackeyGameJam/toupareil/LAPORTE/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
 				"D:/BrackeyGameJam/toupareil/LAPORTE/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
@@ -39,7 +42,6 @@
 				"D:/BrackeyGameJam/toupareil/LAPORTE/Content/Blueprints/BP_Interactable.uasset",
 				"D:/BrackeyGameJam/toupareil/LAPORTE/Content/Blueprints/BP_Boite.uasset",
 				"D:/BrackeyGameJam/toupareil/LAPORTE/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/6S/NN5NL04UN2U5A59KPX2SKV.uasset",
-				"F:/Travaux/Prototypes/toupareil/LAPORTE/Content/StarterContent/Audio/Collapse01.uasset",
 				"F:/Travaux/Prototypes/toupareil/LAPORTE/Content/ProtoDoor/Map/LevelTest.umap"
 			]
 		}
